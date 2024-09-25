@@ -1,23 +1,20 @@
 class NumArray {
 
-    int[] arr;
+    int[] preSum;
 
     public NumArray(int[] nums) {
-        arr = nums;
-    }
-    
-    public int sumRange(int left, int right) {
-        int n = arr.length;
-        int[] preSum = new int[n];
+        int n = nums.length;
+        preSum = new int[n];
         int sum = 0;
-        int ans = 0;
         
         // Calculate the prefix sum 
         for (int i = 0; i < n; i++) {
-            sum += arr[i];
+            sum += nums[i];
             preSum[i] = sum;
         }
-
+    }
+    
+    public int sumRange(int left, int right) {
         if (left-1 < 0) {
             return preSum[right];
         } else {
