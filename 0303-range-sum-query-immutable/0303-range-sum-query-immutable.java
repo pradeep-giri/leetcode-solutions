@@ -2,12 +2,16 @@ class NumArray {
 
     int[] preSum;
 
-    public NumArray(int[] nums) {      
+    public NumArray(int[] nums) {
+        int n = nums.length;
+        preSum = new int[n];
+        int sum = 0;
+        
         // Calculate the prefix sum 
-        for (int i = 1; i < nums.length; i++) {
-            nums[i] += nums[i-1];
+        for (int i = 0; i < n; i++) {
+            sum += nums[i];
+            preSum[i] = sum;
         }
-        this.preSum = nums;
     }
     
     public int sumRange(int left, int right) {
