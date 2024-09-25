@@ -15,7 +15,7 @@ class NumArray {
     }
     
     public int sumRange(int left, int right) {
-        if (left-1 < 0) {
+        if (left == 0) {
             return preSum[right];
         } else {
             return preSum[right] - preSum[left-1];
