@@ -31,4 +31,12 @@
 |  |
 | ------- |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/pradeep-giri/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+## Math
+|  |
+| ------- |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/pradeep-giri/leetcode-solutions/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
+## Simulation
+|  |
+| ------- |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/pradeep-giri/leetcode-solutions/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 <!---LeetCode Topics End-->
