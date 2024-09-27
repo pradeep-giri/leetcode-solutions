@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/pradeep-giri/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Design
 |  |
 | ------- |
@@ -26,4 +27,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+## Binary Search
+|  |
+| ------- |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/pradeep-giri/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
