@@ -16,21 +16,20 @@ class Solution {
     }
 
     public int shipWithinDays(int[] weights, int days) {
-        int n = weights.length;
-        int s = Arrays.stream(weights).max().getAsInt();
-        int e = Arrays.stream(weights).sum();
+        int low = Arrays.stream(weights).max().getAsInt();
+        int high = Arrays.stream(weights).sum();
 
-        while(s<=e) {
-            int m = (s+e)/2;
-            int noOfDays = noOfDaysToLoadShip(weights, m);
+        while(low <= high) {
+            int capacity = (low+high)/2;
+            int noOfDays = noOfDaysToLoadShip(weights, capacity);
 
             if (noOfDays > days) {
-                s = m+1;
+                low = capacity+1;
             } else {
-                e = m-1;
+                high = capacity-1;
             }
         }
 
-        return s;
+        return low;
     }
 }
