@@ -9,6 +9,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0543-diameter-of-binary-tree](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -58,4 +59,16 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0207-course-schedule) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
