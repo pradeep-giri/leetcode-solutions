@@ -47,11 +47,13 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0387-first-unique-character-in-a-string](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0554-brick-wall](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0554-brick-wall) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0387-first-unique-character-in-a-string](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -75,4 +77,12 @@
 | ------- |
 | [0207-course-schedule](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
