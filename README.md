@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0554-brick-wall](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0554-brick-wall) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/pradeep-giri/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Design
 |  |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0554-brick-wall](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0554-brick-wall) |
 ## String
 |  |
 | ------- |
