@@ -22,6 +22,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0303-range-sum-query-immutable](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0554-brick-wall](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0554-brick-wall) |
+| [0605-can-place-flowers](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/pradeep-giri/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Design
 |  |
@@ -85,4 +86,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
