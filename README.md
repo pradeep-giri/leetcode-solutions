@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0120-triangle](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0198-house-robber) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0554-brick-wall](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0554-brick-wall) |
 ## String
@@ -60,6 +62,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pradeep-giri/leetcode-solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Sliding Window
@@ -115,4 +118,5 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
