@@ -30,6 +30,7 @@
 | [0322-coin-change](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0322-coin-change) |
 | [0554-brick-wall](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0554-brick-wall) |
 | [0605-can-place-flowers](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0907-koko-eating-bananas](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/pradeep-giri/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Design
 |  |
@@ -42,6 +43,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0907-koko-eating-bananas](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/pradeep-giri/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Math
 |  |
