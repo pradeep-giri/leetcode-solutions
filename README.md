@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
@@ -96,10 +97,15 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pradeep-giri/leetcode-solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
