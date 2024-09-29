@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
@@ -95,4 +96,8 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0283-move-zeroes) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
