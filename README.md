@@ -21,6 +21,7 @@
 | ------- |
 | [0015-3sum](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0119-pascals-triangle-ii](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0198-house-robber) |
@@ -72,6 +73,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0198-house-robber) |
