@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0283-move-zeroes](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0554-brick-wall](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0554-brick-wall) |
 | [0605-can-place-flowers](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0605-can-place-flowers) |
@@ -90,4 +91,8 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0605-can-place-flowers) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
