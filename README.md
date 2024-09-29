@@ -57,6 +57,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pradeep-giri/leetcode-solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -100,4 +101,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pradeep-giri/leetcode-solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
