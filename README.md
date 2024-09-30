@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0015-3sum) |
+| [0046-permutations](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0066-plus-one) |
 | [0119-pascals-triangle-ii](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
@@ -125,4 +126,8 @@
 | ------- |
 | [0015-3sum](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0049-group-anagrams) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
