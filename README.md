@@ -5,16 +5,19 @@
 ## Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Array
 |  |
@@ -135,4 +138,8 @@
 |  |
 | ------- |
 | [1127-last-stone-weight](https://github.com/pradeep-giri/leetcode-solutions/tree/master/1127-last-stone-weight) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
