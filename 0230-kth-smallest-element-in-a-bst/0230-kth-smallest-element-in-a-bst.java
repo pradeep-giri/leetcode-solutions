@@ -14,9 +14,9 @@
  * }
  */
 class Solution {
-    int i=0;
     int ans=0;
-    
+    int i=0;
+
     public int kthSmallest(TreeNode root, int k) {
         inorder(root, k);
         return ans;
