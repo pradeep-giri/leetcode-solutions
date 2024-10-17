@@ -26,6 +26,7 @@
 | [0046-permutations](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Stack
 |  |
@@ -130,6 +132,7 @@
 | ------- |
 | [0015-3sum](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/pradeep-giri/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
